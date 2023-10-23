@@ -1,0 +1,21 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body 
+{
+  overflow-x: hidden;
+}
+.active 
+{
+  color: white !important;
+  background-color: green !important;
+}
+.container
+{
+  margin: 0 auto !important;
+  width: 86% !important;
+}
